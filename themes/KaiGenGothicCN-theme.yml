@@ -240,6 +240,7 @@ table:
     foot_background_color: f0f0f0
     border_color: dddddd
     border_width: $base_border_width
+    font_size: $base_font_size_small
     cell_padding: 3
 toc:
     indent: $horizontal_rhythm
